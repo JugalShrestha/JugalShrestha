@@ -1,8 +1,6 @@
-# Namaste! 🙋‍♂️ 
-## I am Jugal
+# Namaste! 🙋‍♂️
 
-Currently, I am a student pursuing bachelor's degree in BIM (IT Management) 
-who is a creative problem solver.I am someone who has worked with many other
-creative minds. 
-
-So, working in a team won't be a problem for me.
+Hi! I'm Jugal,
+## A Full Stack Developer,
+who has worked with many other creative minds to achieve 
+efficient and beautiful solutions to many creative problems.
