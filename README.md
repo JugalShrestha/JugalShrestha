@@ -1,6 +1,6 @@
 <h1 align="center">JUGAL SHRESTHA</h1>
 
-<p background="white" align="center">
+<p align="center">
   <a href="mailto:jugalnepali@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
@@ -9,11 +9,13 @@
   </a>
 </p>
 
----
+<pre align="left">  
+  A Full Stack Developer,
+  who has worked with many other creative minds to achieve 
+  efficient and beautiful solutions to many creative problems.
+</pre>
 
-## A Full Stack Developer,
-who has worked with many other creative minds to achieve 
-efficient and beautiful solutions to many creative problems.
+---
 
 ## Skills
 
