@@ -10,9 +10,8 @@
 </p>
 
 <p align="left">  
-  A Full Stack Developer, <br>
-  who has worked with many other creative minds to achieve <br>
-  efficient and beautiful solutions to many creative problems. <br>
+  <b> A Full Stack Developer, </b> <br>
+  who has worked with many other creative minds to achieve efficient and beautiful solutions to many creative problems.
 </p>
 
 ---
